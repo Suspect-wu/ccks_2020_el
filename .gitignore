@@ -1,0 +1,11 @@
+/model/
+
+!/chinese_wwm_L-12_H-768_A-12/bert_config.json
+
+!/roberta_zh_l12/bert_config.json
+
+/ccks2020_el_data/*.pkl
+
+/ccks2020_el_data/test_input.json
+
+/.idea/
